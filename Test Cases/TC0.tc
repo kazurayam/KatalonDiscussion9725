@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC0</name>
+   <tag></tag>
+   <comment>start GlobalVariable.CURRENT_TESTSUITE_ID=$GlobalVariable.CURRENT_TESTSUITE_ID
+GlobalVariable.SUITE_CASE_MAP.get('&quot; + GlobalVariable.CURRENT_TESTSUITE_ID + &quot;')=&quot; + m.get(GlobalVariable.CURRENT_TESTSUITE_ID)
+end   GlobalVariable.CURRENT_TESTSUITE_ID=$GlobalVariable.CURRENT_TESTSUITE_ID</comment>
+   <testCaseGuid>a0d1e286-9bdb-4c20-a057-1691ec6f7fda</testCaseGuid>
+</TestCaseEntity>
